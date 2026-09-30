@@ -38,13 +38,6 @@ Table Name: `students`
 - Update - Update Student
 - Delete - Delete Student
 
-## How to Run
-
-Compile:
-
-```powershell
-javac -cp "lib\mysql-connector-j-26.7.0.jar" StudentRegistration.java
-
 ## Project Purpose
 
 This project demonstrates Java GUI development using Swing and database connectivity using JDBC with MySQL.
@@ -52,3 +45,11 @@ This project demonstrates Java GUI development using Swing and database connecti
 ## License
 
 This project is licensed under the MIT License.
+
+## How to Run
+
+Compile:
+
+```powershell
+javac -cp "lib\mysql-connector-j-26.7.0.jar" StudentRegistration.java
+
