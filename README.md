@@ -44,3 +44,11 @@ Compile:
 
 ```powershell
 javac -cp "lib\mysql-connector-j-26.7.0.jar" StudentRegistration.java
+
+## Project Purpose
+
+This project demonstrates Java GUI development using Swing and database connectivity using JDBC with MySQL.
+
+## License
+
+This project is licensed under the MIT License.
